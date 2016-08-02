@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dca45104-61e8-46f7-b76e-31c8e6621ed8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/why.txt" afterPath="$PROJECT_DIR$/why.txt" />
     </list>
     <ignored path="trml.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -309,7 +310,21 @@
       <option name="project" value="LOCAL" />
       <updated>1470096364397</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="6th&#10;">
+      <created>1470096375704</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1470096375704</updated>
+    </task>
+    <task id="LOCAL-00009" summary="6th&#10;">
+      <created>1470096645156</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1470096645156</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
